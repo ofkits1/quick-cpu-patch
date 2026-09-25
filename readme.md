@@ -1,4 +1,3 @@
-
 # Quick CPU Patch
 
 A lightweight DLL that removes trial and license restrictions from Quick CPU.
